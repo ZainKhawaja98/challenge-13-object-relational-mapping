@@ -11,7 +11,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Clone the github repository to your computer and install the necessary node modules. Then create a database in the mysql shell and seed the applicaton for develop.
 
 
 ## Usage
