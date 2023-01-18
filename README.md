@@ -2,12 +2,7 @@
 
 
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+This application allows a user to create new products, update them, and delete them from the back-end It can be used to update prices and quantities or add new products. This solves the problem of making immediate changes to a website when new inventory is added or stock is updated. I learned how to use insomnia and how to create api routes.
 
 ## Installation
 
@@ -15,11 +10,8 @@ Clone the github repository to your computer and install the necessary node modu
 
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
+Open insomnia and go to the corresponding folder that you need to change such as products, categories, and tags. Choose if you want to get, post, update, or delete something. Fill in the information in the box below and press send to make the changes.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
 
 # Credits
 
