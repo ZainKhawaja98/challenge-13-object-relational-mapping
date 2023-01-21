@@ -1,5 +1,5 @@
 # challenge-13-object-relational-mapping
-
+https://app.castify.com/view/fa107248-6fdb-4f99-849e-4991f42078ca
 
 ## Description
 This application allows a user to create new products, update them, and delete them from the back-end It can be used to update prices and quantities or add new products. This solves the problem of making immediate changes to a website when new inventory is added or stock is updated. I learned how to use insomnia and how to create api routes.
